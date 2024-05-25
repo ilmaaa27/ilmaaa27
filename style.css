@@ -1,0 +1,60 @@
+body {
+  background-color: #5063DB;
+  padding: 50px;
+}
+
+header {
+  background-color: white;
+  padding: 10px;
+  margin-top: 0;
+  align-items: center;
+}
+
+.header-container {
+  justify-content: space-between;
+  margin-top: 0;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  height: 0;
+  display: flex;
+  align-items: center;
+} 
+
+nav ul li {
+  margin-left: 500px;
+  margin-top: 0;
+  margin-bottom: 100px;
+  align-items: center;
+}
+
+nav ul li a:hover {
+  
+  color: white;
+}
+
+.warna-kuning:hover {
+  color: #F771EA;
+}
+
+.warna-kuning {
+  color: #3DFF36;
+}
+
+.warna-oren {
+  color: #62E6FF;
+}
+
+.warna-oren:hover {
+  color: orange;
+}
+
+table {
+  width: 40%;
+}
+
+th, td {
+  padding: 5px;
+}
